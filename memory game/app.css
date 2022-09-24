@@ -1,0 +1,12 @@
+#grid{
+    height: 300px;
+    width: 400px;
+    display:flex;
+    flex-wrap: wrap;
+  
+}
+#result{
+    color: brown;
+    font:size 200px;
+
+}
