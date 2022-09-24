@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: rgb(255, 255, 255);
+    width:500px;
+    height:500px;
+    margin:100px 600px 500px 600px;
+  
+    text-align: center;
+    position:relative;
+    padding: 100px;
+}
+h1{
+    font: size 100px;
+}
+#titles{
+    font: size 200px;
+    text-align: center;
+    background-color: rgb(255, 170, 0);
+    margin:50px;
+    padding: 100px;
+    color: aliceblue;
+}
