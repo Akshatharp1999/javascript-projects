@@ -1,2 +1,2 @@
-# javascript-projects
-javascript projects
+# javascript-games
+javascript games
